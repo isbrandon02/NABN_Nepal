@@ -1,4 +1,5 @@
 import './AboutUs.css';
+import photo from './photo.jpg'
 
 function AboutUs() {
   return (
@@ -7,7 +8,7 @@ function AboutUs() {
         {/* Hero Image */}
         <div className="hero-image">
           <img 
-            src="./photo.jpg" 
+            src={photo} 
             alt="Cosog Nepal Team" 
           />
         </div>
