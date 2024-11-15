@@ -4,13 +4,20 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Home from "./pages/Home.jsx"
 import Header from "./components/Header.jsx"
+import { BrowserRouter, Routes, Route} from 'react-router-dom'
 import AboutUs from "./pages/AboutUs.jsx"
+
+
 
 function App() {
   return (
     <>
-      <Home />
-      <AboutUs />
+      <BrowserRouter>
+        <Routes>
+          <Route index element={<Home />} />
+          <Route path="/AboutUs" element={<AboutUs />} /> 
+        </Routes>
+      </BrowserRouter>
     </>
   )
 }
