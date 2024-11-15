@@ -1,9 +1,13 @@
 import './AboutUs.css';
 import photo from './photo.jpg'
+import Header from '../components/Header.jsx'
 
 function AboutUs() {
   return (
+    <>
+    <Header />
     <div className="about-container">
+        
       <div className="about-content">
         {/* Hero Image */}
         <div className="hero-image">
@@ -27,6 +31,7 @@ function AboutUs() {
         </div>
       </div>
     </div>
+    </>
   );
 };
 
