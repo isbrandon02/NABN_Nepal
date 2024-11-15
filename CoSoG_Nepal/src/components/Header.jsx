@@ -1,8 +1,10 @@
+import logo from './logo.png'
+
 function Header() {
     return (
         <header className="header">
           <div className="logo">
-            <img src="./logo.png" alt="Logo" />
+            <img src={logo} alt="Logo" />
           </div>
           <nav className="nav-links">
             <ul>
