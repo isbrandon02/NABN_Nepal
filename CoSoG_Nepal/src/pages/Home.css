@@ -1,0 +1,176 @@
+.home-container {
+    width: 100%;
+    overflow-x: hidden;
+  }
+  
+  /* Hero Section */
+  .hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                url('/api/placeholder/1920/1080') center/cover;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    padding: 2rem;
+  }
+  
+  .hero-content h1 {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+  }
+  
+  .hero-content p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* Stats Section */
+  .stats-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 4rem 2rem;
+    background-color: #f8f9fa;
+  }
+  
+  .stat-card {
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .stat-card h3 {
+    font-size: 2.5rem;
+    color: #2563eb;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Mission Section */
+  .mission-section {
+    display: flex;
+    align-items: center;
+    padding: 4rem 2rem;
+    gap: 4rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .section-content {
+    flex: 1;
+  }
+  
+  .mission-image {
+    flex: 1;
+  }
+  
+  .mission-image img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Programs Section */
+  .programs-section {
+    padding: 4rem 2rem;
+    background-color: #f8f9fa;
+    text-align: center;
+  }
+  
+  .program-cards {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .program-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    min-width: 250px;
+    max-width: 300px;
+    transition: transform 0.3s ease;
+  }
+  
+  .program-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  /* CTA Section */
+  .cta-section {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(135deg, #2563eb, #1d4ed8);
+    color: white;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
+  /* Buttons */
+  .cta-button {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background-color: #2563eb;
+    color: white;
+    font-weight: 600;
+  }
+  
+  .cta-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .cta-button.secondary {
+    background-color: transparent;
+    border: 2px solid white;
+  }
+  
+  /* Typography */
+  h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #1f2937;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .hero-content h1 {
+      font-size: 2.5rem;
+    }
+    
+    .hero-content p {
+      font-size: 1.2rem;
+    }
+    
+    .mission-section {
+      flex-direction: column;
+      text-align: center;
+    }
+    
+    .stats-section {
+      flex-direction: column;
+      gap: 2rem;
+    }
+    
+    .cta-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
