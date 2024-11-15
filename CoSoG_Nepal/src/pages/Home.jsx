@@ -1,8 +1,9 @@
-import React from 'react';
+import Header from "../components/Header"
 
 function Home() {
     return (
         <>
+            <Header />
             <section className="hero">
                 <div className="hero-content">
                     <h1>Empowering Adolescent Boys in Nepal</h1>
