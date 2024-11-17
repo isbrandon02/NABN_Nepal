@@ -19,7 +19,8 @@
   }
   
   .events {
-    padding: 0 20px;
+    padding: 10px 20px;
+    background: linear-gradient(to right, #F9FAFB, #F9FAFB);
   }
   
   .event--container {
