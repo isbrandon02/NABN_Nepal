@@ -2,11 +2,10 @@ import Header from "../components/Header"
 import './Home.css'
 import React, { useState, useEffect } from 'react';
 import Hero from '../components/Hero.jsx'
-import EventSection from '../components/EventSection.jsx'
 import Mission from '../components/Mission.jsx'
 import Impact from '../components/Impact.jsx'
 import CTA from '../components/CTA.jsx'
-import Events from "../components/Events.jsx"
+import EventsSection from "../components/EventsSection.jsx"
 
 const HomePage = () => {
 
@@ -15,7 +14,7 @@ const HomePage = () => {
         <Header />
         <Hero />
         <Mission />
-        <Events />
+        <EventsSection />
         <Impact />
         <CTA />
     </div>

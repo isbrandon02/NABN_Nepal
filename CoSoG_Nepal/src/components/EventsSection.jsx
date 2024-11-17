@@ -1,7 +1,7 @@
 import eventsData from "./eventsData"
-import "./Events.css"
+import "./EventsSection.css"
 
-function Events() {
+function EventsSection() {
 
     const eventElements = eventsData.map((event) => {
         return(
@@ -30,4 +30,4 @@ function Events() {
     )
 }
 
-export default Events
+export default EventsSection
