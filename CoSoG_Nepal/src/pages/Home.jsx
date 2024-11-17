@@ -6,6 +6,7 @@ import EventSection from '../components/EventSection.jsx'
 import Mission from '../components/Mission.jsx'
 import Impact from '../components/Impact.jsx'
 import CTA from '../components/CTA.jsx'
+import Events from "../components/Events.jsx"
 
 const HomePage = () => {
 
@@ -14,7 +15,7 @@ const HomePage = () => {
         <Header />
         <Hero />
         <Mission />
-        <EventSection />
+        <Events />
         <Impact />
         <CTA /> {/* Call to action */}
     </div>
