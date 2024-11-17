@@ -10,6 +10,7 @@ function Header() {
 
           <div className="logo">
             <img src={logo} alt="Logo" />
+            <span className="org-name">NABN</span>
           </div>
           <nav className="nav-links">
             <ul>
