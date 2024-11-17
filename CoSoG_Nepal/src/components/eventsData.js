@@ -4,12 +4,14 @@ import image2 from "./eventPictures/event2.jpg"
 const eventsData = [
     {
         id: 1,
+        date: "January 1st, 2020",
         img: image1,
         title: "This is the first event held",
         description: "Placeholder text for the first event"
     },
     {
         id: 2,
+        date: "January 1st, 2020",
         img: image2,
         title: "This is the second event held",
         description: "Placeholder text for the second event"
