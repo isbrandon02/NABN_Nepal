@@ -70,11 +70,10 @@
   width: 100%;
 }
 
-/* Update the media query to ensure text stays aligned on mobile */
 @media (max-width: 768px) {
   .logo {
     margin-bottom: 1rem;
-    justify-content: center; /* Centers logo and text on mobile */
+    justify-content: center;
   }
 }
 

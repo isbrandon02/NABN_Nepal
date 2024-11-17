@@ -1,6 +1,6 @@
 import './Contact.css';
 import Header from "../components/Header";
-import { useState } from 'react'; // Added missing import
+import { useState } from 'react';
 
 function Contact() {
     const [formData, setFormData] = useState({

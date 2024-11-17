@@ -15,7 +15,7 @@ function Header() {
           <nav className="nav-links">
             <ul>
               <li><a href="/">HOME</a></li>
-              <li><Link to="/AboutUs">ABOUT US</Link></li>
+              <li><a href="/AboutUs">ABOUT US</a></li>
               <li><a href="/events">EVENTS</a></li>
               <li><a href="/blog">BLOG</a></li>
               <li><a href="/contact">CONTACT</a></li>

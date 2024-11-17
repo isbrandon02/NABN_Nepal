@@ -1,9 +1,9 @@
 .hero-section {
-    position: relative;
-    background: linear-gradient(to right, #F9FAFB, #F9FAFB);
-    color: black;
-    padding: 5rem 0;
-  }
+  position: relative;
+  background: linear-gradient(to right, #F9FAFB, #F9FAFB);
+  color: black;
+  padding: 5rem 0;
+}
   
 .container {
   max-width: 1200px;

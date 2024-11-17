@@ -9,7 +9,7 @@ function AboutUs() {
     <div className="about-container">
         
       <div className="about-content">
-        {/* Hero Image */}
+
         <div className="about-image">
           <img 
             src={photo} 
@@ -17,7 +17,6 @@ function AboutUs() {
           />
         </div>
 
-        {/* Who we are section */}
         <div className="content-section">
           <h1>Who we are?</h1>
           
