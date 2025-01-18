@@ -3,7 +3,9 @@ import "./EventsSection.css"
 
 function EventsSection() {
 
-    const eventElements = eventsData.map((event) => {
+    const fourEventss = eventsData.slice(0, 4).reverse()
+
+    const eventElements = fourEventss.map((event) => {
         return(
             <div key={event.id} className="event--container">
                 <img src={event.img} className="events--image"/>
