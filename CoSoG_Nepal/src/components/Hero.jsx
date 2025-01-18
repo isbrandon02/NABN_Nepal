@@ -11,7 +11,7 @@ function Hero() {
                 National Adolescent Boys Network Nepal
               </h1>
               <p className="hero-description">
-                Empowering Nepal's youth through technology education and coding skills
+                Empowering Nepal's youth
               </p>
               <button className="button button-primary">
                 Join our community
