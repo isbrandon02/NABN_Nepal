@@ -1,6 +1,8 @@
 import './AboutUs.css';
 import photo from '../components/photo.jpg'
 import Header from '../components/Header.jsx'
+import Footer from "../components/Footer.jsx"
+
 
 function AboutUs() {
   return (
@@ -35,6 +37,7 @@ function AboutUs() {
         </div>
       </div>
     </div>
+    <Footer />
     </>
   );
 };
