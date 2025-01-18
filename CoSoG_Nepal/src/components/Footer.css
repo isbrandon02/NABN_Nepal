@@ -56,6 +56,18 @@
     gap: 0.5rem;
   }
   
+  .footer-social-link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #4b5563;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-social-link:hover {
+    color: #2563eb;
+  }
+  
   .footer-contact svg {
     width: 18px;
     height: 18px;
