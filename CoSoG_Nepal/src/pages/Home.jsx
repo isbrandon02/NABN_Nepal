@@ -17,7 +17,6 @@ const HomePage = () => {
         <Header />
         <Hero />
         <Mission />
-        <EventsSection />
         <Impact />
         <CTA />
         <Footer />

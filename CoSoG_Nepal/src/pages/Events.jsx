@@ -1,6 +1,8 @@
 import "./Events.css";
 import eventsData from "../components/eventsData.js";
 import Header from "../components/Header.jsx";
+import Footer from "../components/Footer.jsx"
+
 
 export default Events;
 
@@ -22,6 +24,7 @@ function Events() {
     <div className="events-page">
       <Header />
       <div className="events-container">{eventElems}</div>
+      <Footer />
     </div>
   );
 }

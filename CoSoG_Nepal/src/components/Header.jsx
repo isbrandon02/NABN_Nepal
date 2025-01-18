@@ -20,7 +20,6 @@ function Header() {
               <li><a href="/">HOME</a></li>
               <li><a href="/AboutUs">ABOUT US</a></li>
               <li><a href="/events">EVENTS</a></li>
-              <li><a href="/blog">BLOG</a></li>
               <li><a href="/contact">CONTACT</a></li>
               <li><a href="/donate">DONATE</a></li>
             </ul>
