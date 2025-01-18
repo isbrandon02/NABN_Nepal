@@ -1,6 +1,8 @@
 import './Contact.css';
 import Header from "../components/Header";
 import { useState } from 'react';
+import Footer from "../components/Footer.jsx"
+
 
 function Contact() {
     const [formData, setFormData] = useState({
@@ -90,6 +92,7 @@ function Contact() {
                     </button>
                 </form>
             </div>
+            <Footer />
         </div>
     );
 }
