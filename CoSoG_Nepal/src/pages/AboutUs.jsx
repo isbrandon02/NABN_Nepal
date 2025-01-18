@@ -18,33 +18,20 @@ function AboutUs() {
         </div>
 
         <div className="content-section">
-          <h1>Who we are?</h1>
+          <h1>Who are we?</h1>
           
           <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium
-optio, eaque rerum! Provident similique accusantium nemo autem. Veritatis
-obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam
-nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,
-tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
-quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos 
-sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam
-recusandae alias error harum maxime adipisci amet laborum. Perspiciatis 
-minima nesciunt dolorem!         </p>
+          The National Adolescent Network Nepal was established on Shrawan 14, 2078 BS, with the main objective of ensuring adolescent participation in advocating for and securing the overall rights of children and adolescents, as well as ending gender-based violence and promoting gender equality. Since its establishment, the network has been consistently working effectively to protect child and adolescent rights. It has organized various online and offline programs across the country, including life skills training, capacity building for adolescents, sexual and reproductive rights, mental health rights, climate justice and rights for adolescents, online safety rights for children and adolescents, and efforts to reduce child marriage. 
+        </p>
           
           <p>
-          Officiis iure rerum voluptates a cumque velit 
-quibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur 
-fugiat, temporibus enim commodi iusto libero magni deleniti quod quam 
-consequuntur! Commodi minima excepturi repudiandae velit hic maxime
-doloremque. Quaerat provident commodi consectetur veniam similique ad 
-earum omnis ipsum saepe, voluptas, hic voluptates pariatur est explicabo 
-fugiat, dolorum eligendi quam cupiditate excepturi mollitia maiores labore 
-suscipit quas? Nulla, placeat. Voluptatem quaerat non architecto ab laudantium
-modi minima sunt esse temporibus sint culpa, recusandae aliquam numquam 
-totam ratione voluptas quod exercitationem fuga. Possimus quis earum veniam 
-quasi aliquam eligendi, placeat qui corporis!           </p>
+          The network has been collaborating with government and non-governmental organizations to advocate for and ensure the rights of adolescents. It actively monitors the government’s laws, policies, and national plans related to children and adolescents, raising and addressing adolescent issues, voices, and rights. Recently, the network has focused on addressing gender-based violence and abuse against boys, highlighting the fact that boys can also be victims of rape, making it a campaign for advocacy, debate, and awareness. 
+         </p>
+
+         <p>
+         Currently, the central committee of the network consists of 23 members, ensuring meaningful adolescent participation from all seven provinces of Nepal, with provincial adolescent networks also established in each province.
+         </p>
+
         </div>
       </div>
     </div>
