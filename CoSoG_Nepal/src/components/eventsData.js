@@ -35,34 +35,39 @@ import event34 from "./eventPictures/event34.png";
 import event35 from "./eventPictures/event35.png";
 import event36 from "./eventPictures/event36.png";
 import event37 from "./eventPictures/event37.png";
-import event38 from "./eventPictures/event40.png";
+import event38 from "./eventPictures/event38.png";
 import event39 from "./eventPictures/event39.png";
-import event40 from "./eventPictures/event45.png";
+import event40 from "./eventPictures/event40.png";
 import event41 from "./eventPictures/event41.png";
 import event42 from "./eventPictures/event42.png";
 import event43 from "./eventPictures/event43.png";
-import event44 from "./eventPictures/event49.png";
-import event45 from "./eventPictures/event50.png";
-import event46 from "./eventPictures/event51.png";
-import event47 from "./eventPictures/event52.png";
-import event48 from "./eventPictures/event53.png";
-import event49 from "./eventPictures/event54.png";
-import event50 from "./eventPictures/event55.png";
-import event51 from "./eventPictures/event56.png";
-import event52 from "./eventPictures/event57.png";
-import event53 from "./eventPictures/event58.png";
-import event54 from "./eventPictures/event59.png";
-import event55 from "./eventPictures/event60.png";
-import event56 from "./eventPictures/event61.png";
-import event57 from "./eventPictures/event62.png";
-import event58 from "./eventPictures/event63.png";
-import event59 from "./eventPictures/event64-.png";
-import event60 from "./eventPictures/event62--.png";
-import event61 from "./eventPictures/event61-.png";
-import event62 from "./eventPictures/event62-.png";
-import event63 from "./eventPictures/event63-.png";
+import event44 from "./eventPictures/event44.png";
+import event45 from "./eventPictures/event45.png";
+import event46 from "./eventPictures/event46.png";
+import event47 from "./eventPictures/event47.png";
+import event48 from "./eventPictures/event48.png";
+import event49 from "./eventPictures/event49.png";
+import event50 from "./eventPictures/event50.png";
+import event51 from "./eventPictures/event51.png";
+import event52 from "./eventPictures/event52.png";
+import event53 from "./eventPictures/event53.png";
+import event54 from "./eventPictures/event54.png";
+import event55 from "./eventPictures/event55.png";
+import event56 from "./eventPictures/event56.png";
+import event57 from "./eventPictures/event57.png";
+import event58 from "./eventPictures/event58.png";
+import event59 from "./eventPictures/event59.png";
+import event60 from "./eventPictures/event60.png";
+import event61 from "./eventPictures/event61.png";
+import event62 from "./eventPictures/event62.png";
+import event63 from "./eventPictures/event63.png";
 import event64 from "./eventPictures/event64.png";
 import event65 from "./eventPictures/event65.png";
+import event66 from "./eventPictures/event66.png";
+import event67 from "./eventPictures/event67.png";
+import event68 from "./eventPictures/event68.png";
+import event69 from "./eventPictures/event69.png";
+import event70 from "./eventPictures/event70.png";
 
 const eventsData = [
   {
@@ -379,7 +384,7 @@ const eventsData = [
   {
     id: 40,
     date: "December 4, 2023",
-    img: event38,
+    img: event40,
     title: "National Conference of Former Child Club Members",
     description:
       "NABN participated in the National Conference of Former Members of Child Clubs in Kathmandu, demonstrating solidarity and active involvement in child rights initiatives.",
@@ -404,31 +409,72 @@ const eventsData = [
     id: 43,
     date: "June 1, 2024",
     img: event43,
-    title: "Pride Month Awareness Event",
+    title: "TB Awareness Program in Karnali Province",
     description:
       "NABN successfully organized an event to raise awareness about Pride Month, its significance, the LGBTQ community, and to promote the rights of the LGBTIQ++ community. The event was held in collaboration with CWIN Nepal and National Adolescent Girls' Network, featuring Umesh Moktan as a special mentor for the session.",
   },
   {
     id: 44,
-    date: "June 25-26, 2024",
+    date: "March 8, 2024",
     img: event44,
+    title: "Inspire Inclusion: International Women's Day 2024",
+    description:
+      "NABN organized the 'Men's March for Gender Equality' to celebrate International Women's Day 2024, promoting inclusion and gender equality through active male participation.",
+  },
+  {
+    id: 45,
+    date: "Ashad 2080",
+    img: event45,
+    title: "Appeal Letter Handover in Sunwal Municipality",
+    description:
+      "The appeal letter prepared from the National Adolescent Gathering 2080 was handed over by Mr. Sushant Shrestha, a member of the National Adolescent Network Nepal, to Mrs. Bimala Aryal, the Mayor of Sunwal Municipality. The Mayor expressed her commitment to preparing an action plan for the upcoming fiscal year in accordance with the appeal letter.",
+  },
+  {
+    id: 46,
+    date: "June 2024",
+    img: event46,
+    title: "Pride Month Parade Participation",
+    description:
+      "Sushant Shrestha, central member of National Adolescent's Boys Network Nepal, joined the Pride Month Parade organized by Sahasi Kadam with YUWA and Right Here Right Now, where he raised his voice for equal rights and opportunities for the LGBTIQ+ community in Nepal. Keep supporting and encouraging rights for everyone. Respect everyone.",
+  },
+  {
+    id: 47,
+    date: "June 2024",
+    img: event47,
+    title: "Pride Month Awareness Event",
+    description:
+      "In celebration of Pride Month, National Adolescent Boys Network Nepal successfully organized an event to raise awareness about Pride Month, its significance, the LGBTQ community, and to promote the rights of the LGBTIQ++ community. Thanks to CWIN Nepal and राष्ट्रिय किशोरी सञ्जाल for your coordination and collaboration. Special thanks to Umesh Moktan, mentor of the session.",
+  },
+  {
+    id: 48,
+    date: "NA",
+    img: event48,
+    title:
+      "Life Skills and Health Training for Adolescents in Koshi, Madhesh, and Bagmati",
+    description:
+      "A transformative two-day training program focused on gender, sexual and reproductive health, online safety, and life skills, with inclusive participation from adolescents across 35 districts. Led by expert trainer Puja Bishunkhe, the sessions emphasized self-awareness, empathy, and effective communication, empowering participants to build stronger connections and drive positive change.",
+  },
+  {
+    id: 49,
+    date: "June 25-26, 2024",
+    img: event49,
     title: "Life Skills and Health Training in Karnali & Sudurpaschim",
     description:
       "A transformative training program focusing on gender, sexual and reproductive health, online safety, and life skills for adolescents, with inclusive participation from 21 districts.",
   },
   {
-    id: 45,
+    id: 50,
     date: "June 27-28, 2024",
-    img: event45,
+    img: event50,
     title:
       "ife Skills and Health Training for Adolescents in Karnali & Sudurpaschim",
     description:
       "The National Adolescent Boys Network, and National Adolescent Girls Network, Karnali and Sudurpaschim Province, launched gender, sexual and reproductive health, and online sexual exploitation orientation and life skills training for adolescents on Ashad 30 to 31. Here's a glimpse of the exciting highlights from the first day!",
   },
   {
-    id: 46,
+    id: 51,
     date: "June 30 - July 1, 2024",
-    img: event46,
+    img: event51,
     title:
       "Life Skills and Health Training for Karnali & Sudurpaschim Adolescents",
 
@@ -436,153 +482,153 @@ const eventsData = [
       "The National Adolescent Boys Network, and National Adolescent Girls Network, Karnali and Sudurpaschim Province, launched gender, sexual and reproductive health, and online sexual exploitation orientation and life skills training for adolescents on Ashad 30 to 31. Here's a glimpse of the exciting highlights from the first day! + Inclusive Participation: Adolescents from all 21 districts, including members from the provincial National Adolescent Girls and Boys Network, joined forces for an incredible learning experience. Puja Bishunkhe, a public health and psychology trainer, led engaging sessions on self-awakening, empathy, and interpersonal skills. Participants were captivated by thought-provoking discussions and interactive activities. All participants from the provincial National Adolescent Boys' and Girls' Network Nepal shared invaluable insights on mastering effective communication, equipping adolescents with essential skills for building stronger connections. Also, we would like to express our special thanks to CWIN Nepal and CRC Asia because of their cooperation, this program has been completed magnificently. Stay tuned for more updates as we continue this transformative journey of adolescent empowerment!",
   },
   {
-    id: 47,
+    id: 52,
     date: "July 29, 2024",
-    img: event47,
+    img: event52,
     title: "Third Anniversary Celebration",
     description:
       "NABN celebrated its third anniversary with a ceremony chaired by President Ghanashyam Bishwa Karma. The event was attended by distinguished guests including Mr. Bam Bahadur Baniya, Vice-Chairperson of the National Child Rights Council, and various child rights activists and organizations from across Nepal.",
   },
   {
-    id: 48,
+    id: 53,
     date: "August 25, 2024",
-    img: event48,
+    img: event53,
     title: "Third National Child Participation Day",
     description:
       "NABN participated in the Third National Child Participation Day, featuring panel discussions on challenges related to child participation, experiences of child clubs, and the importance of child participation in various sectors. The event saw participation from nearly 80 individuals from all seven provinces of Nepal.",
   },
   {
-    id: 49,
+    id: 54,
     date: "September 15, 2024",
-    img: event49,
+    img: event54,
     title: "Welcome and Orientation Program for New Members",
     description:
       "NABN conducted a welcome and orientation program for its new general members, featuring presentations on the network's achievements, roles, and responsibilities. The event included a Q&A session and concluded with inspiring remarks from President Ghanashyam Bishwakarma.",
   },
   {
-    id: 50,
+    id: 55,
     date: "October 1, 2024",
-    img: event50,
+    img: event55,
     title: "HIV/AIDS Awareness Program",
     description:
       "NABN participated in an HIV/AIDS Awareness Program organized by We For Change and supported by UNAIDS. The event included a quiz competition where winners were awarded books on child sexual violence published by CWIN Nepal.",
   },
   {
-    id: 51,
+    id: 56,
     date: "November 20, 2024",
-    img: event51,
+    img: event56,
     title: "60th National Children's Day Celebration",
     description:
       "NABN representatives participated in the 60th National Children's Day celebrations, including a rally and greeting exchange program organized by Sunwal Municipality, Nepal's first child-friendly municipality.",
   },
   {
-    id: 52,
+    id: 57,
     date: "December 5-7, 2024",
-    img: event52,
+    img: event57,
     title: "Comic Workshop on Ending Child Marriage",
     description:
       "NABN participated in a three-day comic workshop titled 'Empowering Adolescents To End Self-Initiated Child Marriage', held at the Child Helpline Office. The workshop saw representation from every province of Nepal.",
   },
   {
-    id: 53,
+    id: 58,
     date: "January 15, 2025",
-    img: event53,
+    img: event58,
     title: "School Awareness Program on Child Marriage",
     description:
       "NABN President Ghanashyam Bishwakarma and Vice President Rahul Mahato conducted an awareness session at Bhanubhakta Memorial Secondary School on child marriage and understanding good touch versus bad touch, educating students on these critical issues.",
   },
   {
-    id: 54,
+    id: 59,
     date: "February 1, 2025",
-    img: event54,
+    img: event59,
     title: "Submission of Appeal Letter to Parliament Speaker",
     description:
       "NABN, in collaboration with the National Adolescent Girls Network, prepared and submitted an appeal letter to the Honorable Speaker of the Federal Parliament, highlighting the need to address gaps in laws and policies concerning children's and adolescents' rights.",
   },
   {
-    id: 55,
+    id: 60,
     date: "November 25, 2024",
-    img: event55,
+    img: event60,
     title: "16 Days of Activism Against Gender-Based Violence Kickoff",
     description:
       "NABN organized an event titled 'Empowering Young Advocates to Combat Gender-Based Violence' at Sunwal Secondary School, marking the beginning of the 16 Days of Activism campaign.",
   },
   {
-    id: 56,
+    id: 61,
     date: "November 29, 2024",
-    img: event56,
+    img: event61,
     title: "Men's Engagement in Ending GBV Program",
     description:
       "As part of the 16 Days of Activism, NABN organized a program on 'Men's Engagement to Ending GBV' at Omega Secondary College, including a signature campaign to gather commitments for ending gender-based violence.",
   },
   {
-    id: 57,
+    id: 62,
     date: "December 1-10, 2024",
-    img: event57,
+    img: event62,
     title: "Online Awareness Campaign on GBV",
     description:
       "NABN engaged over 700 adolescents from all 7 provinces through online platforms in a program on 'Men Engagement to Ending Gender-Based Violence, SRHR, and Girls' Empowerment' as part of the 16 Days of Activism campaign.",
   },
   {
-    id: 58,
+    id: 63,
     date: "December 5, 2024",
-    img: event58,
+    img: event63,
     title: "School Program on Ending Gender-Based Violence",
     description:
       "NABN conducted a program at Jan Namuna Secondary School focusing on the role of adolescent boys in ending gender-based violence, reaching over 100 adolescent boys and girls from classes 9 and 10.",
   },
   {
-    id: 59,
+    id: 64,
     date: "December 8, 2024",
-    img: event59,
+    img: event64,
     title: "GBV Awareness Program in Sudurpashchim Province",
     description:
       "NABN organized a program at Gaurishankar Basic School in Sudurpashchim Province, focusing on Male Participation in Ending Gender-Based Violence, Sexual and Reproductive Health and Rights, and HIV/AIDS Awareness.",
   },
   {
-    id: 60,
+    id: 65,
     date: "December 10, 2024",
-    img: event60,
+    img: event65,
     title: "Men's Engagement in Ending GBV Session",
     description:
       "NABN member Nishchal Bhattarai facilitated a session on 'Men's Engagement in Ending Gender-Based Violence' as part of the 16 Days Campaign, emphasizing the crucial role of men in eliminating gender-based violence.",
   },
   {
-    id: 61,
+    id: 66,
     date: "December 12, 2024",
-    img: event61,
+    img: event66,
     title: "GBV Awareness Program in Lumbini Province",
     description:
       "NABN conducted a program titled 'Men's Engagement in Ending Gender-Based Violence' at Shree Mun Light Secondary School in Tilottama Municipality, Lumbini Province, as part of the ongoing 16 Days Campaign.",
   },
   {
-    id: 62,
+    id: 67,
     date: "December 15, 2024",
-    img: event62,
+    img: event67,
     title: "Efforts for Change Program on Human Rights Day",
     description:
       "NABN organized the 'Efforts for Change' program featuring Gauri Pradhan, a pioneer of children's rights in Nepal, as part of the 'Child Human Rights Defenders' series, with participation from children and adolescents across all seven provinces.",
   },
   {
-    id: 63,
+    id: 68,
     date: "December 20, 2024",
-    img: event63,
+    img: event68,
     title: "GBV Awareness Session by NABN Treasurer",
     description:
       "NABN Treasurer Bibek Shah facilitated a session on 'Men's Engagement in Ending Gender-Based Violence' as part of the extended 16 Days Campaign, emphasizing the importance of transforming mindsets to build an equitable society.",
   },
   {
-    id: 64,
+    id: 69,
     date: "January 5, 2025",
-    img: event64,
+    img: event69,
     title: "Child Marriage Prevention Awareness Session",
     description:
       "NABN Vice Secretary Suman Yadav conducted an awareness session on child marriage prevention and the use of the child helpline number 1098 at Shree Bal Secondary School in Biratnagar, educating students about the negative impacts of child marriage.",
   },
   {
-    id: 65,
+    id: 70,
     date: "January 8, 2025",
-    img: event65,
+    img: event70,
     title: "Child Rights and Online Safety Awareness Program",
     description:
       "NABN Secretary Sudip Poudel facilitated a session at Shree Ram Secondary School in Pokhara, focusing on Child Rights, Preventing Child Marriage, Online Safety, and the use of the Child Helpline number 1098, receiving positive feedback from participating children.",
