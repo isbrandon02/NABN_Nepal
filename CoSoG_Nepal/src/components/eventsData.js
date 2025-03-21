@@ -35,32 +35,32 @@ import event34 from "./eventPictures/event34.png";
 import event35 from "./eventPictures/event35.png";
 import event36 from "./eventPictures/event36.png";
 import event37 from "./eventPictures/event37.png";
-import event38 from "./eventPictures/event38.png";
+import event38 from "./eventPictures/event40.png";
 import event39 from "./eventPictures/event39.png";
-import event40 from "./eventPictures/event40.png";
+import event40 from "./eventPictures/event45.png";
 import event41 from "./eventPictures/event41.png";
 import event42 from "./eventPictures/event42.png";
 import event43 from "./eventPictures/event43.png";
-import event44 from "./eventPictures/event44.png";
-import event45 from "./eventPictures/event45.png";
-import event46 from "./eventPictures/event46.png";
-import event47 from "./eventPictures/event47.png";
-import event48 from "./eventPictures/event48.png";
-import event49 from "./eventPictures/event49.png";
-import event50 from "./eventPictures/event50.png";
-import event51 from "./eventPictures/event51.png";
-import event52 from "./eventPictures/event52.png";
-import event53 from "./eventPictures/event53.png";
-import event54 from "./eventPictures/event54.png";
-import event55 from "./eventPictures/event55.png";
-import event56 from "./eventPictures/event56.png";
-import event57 from "./eventPictures/event57.png";
-import event58 from "./eventPictures/event58.png";
-import event59 from "./eventPictures/event59.png";
-import event60 from "./eventPictures/event60.png";
-import event61 from "./eventPictures/event61.png";
-import event62 from "./eventPictures/event62.png";
-import event63 from "./eventPictures/event63.png";
+import event44 from "./eventPictures/event49.png";
+import event45 from "./eventPictures/event50.png";
+import event46 from "./eventPictures/event51.png";
+import event47 from "./eventPictures/event52.png";
+import event48 from "./eventPictures/event53.png";
+import event49 from "./eventPictures/event54.png";
+import event50 from "./eventPictures/event55.png";
+import event51 from "./eventPictures/event56.png";
+import event52 from "./eventPictures/event57.png";
+import event53 from "./eventPictures/event58.png";
+import event54 from "./eventPictures/event59.png";
+import event55 from "./eventPictures/event60.png";
+import event56 from "./eventPictures/event61.png";
+import event57 from "./eventPictures/event62.png";
+import event58 from "./eventPictures/event63.png";
+import event59 from "./eventPictures/event64-.png";
+import event60 from "./eventPictures/event62--.png";
+import event61 from "./eventPictures/event61-.png";
+import event62 from "./eventPictures/event62-.png";
+import event63 from "./eventPictures/event63-.png";
 import event64 from "./eventPictures/event64.png";
 import event65 from "./eventPictures/event65.png";
 
@@ -79,7 +79,7 @@ const eventsData = [
     img: event2,
     title: "First National Gathering of Adolescents",
     description:
-      "In Dangadhi, the first national gathering of adolescents was organized by Civin Nepal with the support of CRC Asia. Adolescents raised questions about problems they face, current needs, and ambiguities in existing laws. The event concluded with the formation of the National Adolescent Network and selection of its first executive committee.",
+      "The National Adolescent Network Nepal organized the 'National Open Speech Competition-2078' on the topic \"The Role of Local Government in Child Protection and Structure.\" Open to adolescents aged 10-19, participants submitted 4-minute Nepali videos evaluated on audience engagement (15%) and panel decision (85%). Prizes ranged from NPR 6,700 to NPR 2,000, with submissions accepted via email, Facebook, or WhatsApp. The event was supported by Civin Nepal and the National Adolescent Girls' Network Nepal, with a focus on child protection and youth participation.",
   },
   {
     id: 3,
@@ -87,7 +87,7 @@ const eventsData = [
     img: event3,
     title: "National Open Speech Competition Announcement",
     description:
-      "NABN announced the 'National Open Speech Competition-2078' on the topic 'The Role of Local Government in Child Protection and Structure'. The competition was open to adolescents aged 10-19 from all districts of Nepal, offering prizes and aiming to encourage youth participation in discussions about local governance and child protection.",
+      "In Dangadhi, the first national gathering of adolescents was organized by Civin Nepal with the support of CRC Asia. Adolescents raised questions about problems they face, current needs, and ambiguities in existing laws. The event concluded with the formation of the National Adolescent Network and selection of its first executive committee.",
   },
   {
     id: 4,
@@ -95,15 +95,14 @@ const eventsData = [
     img: event4,
     title: "Drafting of Three-Year Action Plan",
     description:
-      "NABN held a comprehensive interactive program with adolescents from each province to draft its three-year action plan. Discussions focused on prevalent issues in each province, possible solutions, and what should be included in the action plan.",
+      "NABN announced the 'National Open Speech Competition-2078' on the topic 'The Role of Local Government in Child Protection and Structure'. The competition was open to adolescents aged 10-19 from all districts of Nepal, offering prizes and aiming to encourage youth participation in discussions about local governance and child protection.",
   },
   {
     id: 5,
     date: "December 3, 2021",
     img: event5,
-    title: "National Open Speech Competition Results",
-    description:
-      "The result publication and closing ceremony of the 'National Open Speech Competition-2078' was held, marking the conclusion of this initiative to engage adolescents in discussions about local governance and child protection.",
+    title: "",
+    description: "",
   },
   {
     id: 6,
@@ -380,7 +379,7 @@ const eventsData = [
   {
     id: 40,
     date: "December 4, 2023",
-    img: event40,
+    img: event38,
     title: "National Conference of Former Child Club Members",
     description:
       "NABN participated in the National Conference of Former Members of Child Clubs in Kathmandu, demonstrating solidarity and active involvement in child rights initiatives.",
@@ -413,25 +412,28 @@ const eventsData = [
     id: 44,
     date: "June 25-26, 2024",
     img: event44,
-    title: "Gender, Sexual and Reproductive Health Training",
+    title: "Life Skills and Health Training in Karnali & Sudurpaschim",
     description:
-      "NABN and National Adolescent Girls Network launched a two-day training program on gender, sexual and reproductive health, and online sexual exploitation for adolescents from Koshi, Madhesh, and Bagmati Provinces. The program included sessions on self-awareness, empathy, and interpersonal skills, led by public health and psychology trainer Puja Bishunkhe.",
+      "A transformative training program focusing on gender, sexual and reproductive health, online safety, and life skills for adolescents, with inclusive participation from 21 districts.",
   },
   {
     id: 45,
     date: "June 27-28, 2024",
     img: event45,
-    title: "Life Skills Training for Gandaki and Lumbini Provinces",
+    title:
+      "ife Skills and Health Training for Adolescents in Karnali & Sudurpaschim",
     description:
-      "A two-day life skills training program was conducted for adolescents from Gandaki and Lumbini Provinces, focusing on gender, sexual and reproductive health, and online sexual exploitation. The event saw participation from 21 districts and was supported by CWIN Nepal and CRC Asia.",
+      "The National Adolescent Boys Network, and National Adolescent Girls Network, Karnali and Sudurpaschim Province, launched gender, sexual and reproductive health, and online sexual exploitation orientation and life skills training for adolescents on Ashad 30 to 31. Here's a glimpse of the exciting highlights from the first day!",
   },
   {
     id: 46,
     date: "June 30 - July 1, 2024",
     img: event46,
-    title: "Training Program for Karnali and Sudurpashchim Provinces",
+    title:
+      "Life Skills and Health Training for Karnali & Sudurpaschim Adolescents",
+
     description:
-      "NABN organized a two-day training program on gender, sexual and reproductive health, and online sexual exploitation for adolescents from Karnali and Sudurpashchim Provinces. The event included participants from 21 districts and featured interactive sessions on various aspects of adolescent development.",
+      "The National Adolescent Boys Network, and National Adolescent Girls Network, Karnali and Sudurpaschim Province, launched gender, sexual and reproductive health, and online sexual exploitation orientation and life skills training for adolescents on Ashad 30 to 31. Here's a glimpse of the exciting highlights from the first day! + Inclusive Participation: Adolescents from all 21 districts, including members from the provincial National Adolescent Girls and Boys Network, joined forces for an incredible learning experience. Puja Bishunkhe, a public health and psychology trainer, led engaging sessions on self-awakening, empathy, and interpersonal skills. Participants were captivated by thought-provoking discussions and interactive activities. All participants from the provincial National Adolescent Boys' and Girls' Network Nepal shared invaluable insights on mastering effective communication, equipping adolescents with essential skills for building stronger connections. Also, we would like to express our special thanks to CWIN Nepal and CRC Asia because of their cooperation, this program has been completed magnificently. Stay tuned for more updates as we continue this transformative journey of adolescent empowerment!",
   },
   {
     id: 47,
